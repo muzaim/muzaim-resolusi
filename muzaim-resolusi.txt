@@ -2,5 +2,6 @@ Muzaim Resolusi:
 - Belajar ReactJS setiap hari
 - Membangun project dari ReactJS
 - Membuat project nodeJS
-- Wirausaha
+- Wirausaha (done)
 - Membuat lebih banyak project
+- Membuat blog 
