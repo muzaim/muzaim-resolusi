@@ -1,0 +1,4 @@
+Muzaim Resolusi:
+- Belajar ReactJS setiap hari
+- Membangun project dari ReactJS
+- Membuat project nodeJS
